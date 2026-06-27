@@ -23,4 +23,4 @@ Payments
 The extension opens a Stripe Payment Link for the optional GBP 2.99 30-Day Pass Pack. Stripe processes payment information. TheoryTab Sprint does not receive, store, or process payment card details.
 Stripe may collect payment and billing information according to Stripe's own privacy policy and terms.
 Contact
-Publisher contact: hi@emmacleaningltd.co.uk
+Publisher contact and support: hi@emmacleaningltd.co.uk
